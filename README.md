@@ -21,7 +21,7 @@ You can run it on Geforce 5090 RTX if the generation settings are set to 512 res
 - python 3.11
 
 ### 🔑 Huggingface Token Requirement
-The code uses the DINOv3 model from: [https://huggingface.co/phunghuy159/dinov3](https://huggingface.co/phunghuy159/dinov3)
+The code uses the DINOv3 model from: [https://huggingface.co/tothemars/dinov3](https://huggingface.co/tothemars/dinov3)
 ### Installation
 
 - Docker (building & pushing to remote register):
